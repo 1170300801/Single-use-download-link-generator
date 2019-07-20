@@ -1,5 +1,5 @@
 # Single-use-download-link-generator
-Generate single used download link
+This tool is designed to generate single used download link. You can generate a one-time only download link for local or remote files. Once clicked or expired, the link will no longer be able to download anything.
 
 ## Notice
 ### For local host users
